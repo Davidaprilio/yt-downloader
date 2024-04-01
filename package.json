@@ -1,0 +1,15 @@
+{
+  "name": "yt-downloader",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^26.2.4"
+  },
+  "dependencies": {
+    "python-shell": "^5.0.0"
+  }
+}
